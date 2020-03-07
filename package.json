@@ -1,0 +1,41 @@
+{
+  "name": "nodejs-dependency-injection-container",
+  "version": "1.0.0",
+  "description": "NodeJS simple DI container.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "rimraf ./build && tsc",
+    "lint": "eslint . --ext .ts",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgonzaledk/nodejs-dependency-injection-container.git"
+  },
+  "keywords": [
+    "dic",
+    "dependency",
+    "injection",
+    "container"
+  ],
+  "author": "M A Gonzalez",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mgonzaledk/nodejs-dependency-injection-container/issues"
+  },
+  "homepage": "https://github.com/mgonzaledk/nodejs-dependency-injection-container#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.0",
+    "@typescript-eslint/eslint-plugin": "^2.22.0",
+    "@typescript-eslint/parser": "^2.22.0",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
