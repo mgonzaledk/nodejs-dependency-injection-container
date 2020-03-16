@@ -25,6 +25,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="D:\Github\nodejs-dependency-injection-container\node_modules\typescript\lib" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\nodejs-dependency-injection-container\examples\simple" />
+      <recent name="D:\Github\nodejs-dependency-injection-container\src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -48,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583595935248</updated>
       <workItem from="1583595936329" duration="3268000" />
-      <workItem from="1584390969530" duration="2174000" />
+      <workItem from="1584390969530" duration="3187000" />
     </task>
     <servers />
   </component>
